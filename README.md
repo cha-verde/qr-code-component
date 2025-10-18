@@ -15,14 +15,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/cha-verde/qr-code-component)
-- Live Site URL: [Add live site URL here](https://cha-verde.github.io/qr-code-component/)
+- Solution URL: [https://github.com/cha-verde/qr-code-component]
+- Live Site URL: [https://cha-verde.github.io/qr-code-component/]
 
 ## My process
 
@@ -43,12 +41,12 @@ I would like to refresh my learning/learn more about CSS layout.
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - An invaluable resource for HTML and CSS materials. I will keep going back in the foreseeable future.
+- [W3Schools](https://www.w3schools.com/) - An invaluable resource for HTML and CSS materials. I will keep going back in the foreseeable future.
 
 ## Author
 
-- Website - [Add your name here](https://github.com/cha-verde/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [cha-verde](https://github.com/cha-verde/)
+- Frontend Mentor - [@cha-verde](https://www.frontendmentor.io/profile/yourusername)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
