@@ -1,3 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     background-color: #D5E1EF;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.card-container, .attribution{
+    width: 100vw;
+}
+
+.card-container{
+    flex-grow: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    width: 320px;
+    height: 500px;
+    background-color: white;
+
+}
+
+.attribution{
+    flex-grow: 1;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
