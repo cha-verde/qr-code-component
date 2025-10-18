@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/cha-verde/qr-code-component]
-- Live Site URL: [https://cha-verde.github.io/qr-code-component/]
+- [Solution URL](https://github.com/cha-verde/qr-code-component)
+- [Live Site URL](https://cha-verde.github.io/qr-code-component/)
 
 ## My process
 
@@ -47,8 +47,6 @@ I would like to refresh my learning/learn more about CSS layout.
 
 - Website - [cha-verde](https://github.com/cha-verde/)
 - Frontend Mentor - [@cha-verde](https://www.frontendmentor.io/profile/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
