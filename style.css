@@ -46,7 +46,7 @@ body{
 }
 
 .line-one, .line-two, .attribution{
-    font-family: "Outfit";
+    font-family: "Outfit", Arial, Helvetica, sans-serif;
 }
 
 .line-one{
